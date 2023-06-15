@@ -16,10 +16,7 @@
 ---
 
 ### Tools
-<img src="https://img.shields.io/badge/VisualStudioVode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualStudioVode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
 
 ---
 
