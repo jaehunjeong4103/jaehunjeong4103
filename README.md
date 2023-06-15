@@ -27,12 +27,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehunjeong4103&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehunjeong4103&langs_count=8)](https://github.com/jaehunjeong4103/github-readme-stats)
-
----
-
 
 
 
